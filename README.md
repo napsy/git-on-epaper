@@ -6,9 +6,9 @@ A gitlab webhook for push notifications on a project. The webhook serves a HTML 
 - commit author
 - added/deleted lines
 
-Here's a screenshot of the page, shown on a e-paper device from [Visionect!](https://www.visionect.com):
+Here's a screenshot of the page, shown on a e-paper device from [Visionect](https://www.visionect.com):
 
-[Screen shot](shot.png)
+![Screenshot](https://raw.githubusercontent.com/napsy/git-on-epaper/main/shot.png)
 
 To compile, clone and run
 
